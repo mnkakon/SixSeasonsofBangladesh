@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_winter"
+    tools:context="com.project.android.sixseasonsofbangladesh.Winter">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="শীত বাংলা সনের পঞ্চম ঋতু। পৌষ ও মাঘ মাস এই দুই মাস মিলে শীতকাল । শীতকাল প্রধানত শুষ্ক এবং দিনের তুলনায় রাত হয় দীর্ঘ। বাংলাদেশে শীতের সময় খেজুরের রস দিয়ে বিভিন্ন ধরনের পিঠা পায়েস খাওয়া হয় । ডিসেম্বর এর মাঝামাঝি থেকে ফেব্রুয়ারির মাঝামাঝি শীতকাল হলেও বাস্তবে নভেম্বর থেকেই হালকা শীত অনুভূত হয়। জানুয়ারি মাসে গড় তাপমাত্রা দেশের উত্তর-পশ্চিমাঞ্চল ও উত্তর-পর্বাঞ্চলে ১১° সেলসিয়াস থেকে শুরু করে উপকূলীয় অঞ্চলে ২০°-২১° সেলসিয়াস পর্যন্ত বজায় থাকে। এ সময় বৃষ্টিপাতের পরিমাণ নগণ্য।"
+        android:textSize="20sp"
+        />
+
+</RelativeLayout>

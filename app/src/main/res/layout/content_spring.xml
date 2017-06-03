@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_spring"
+    tools:context="com.project.android.sixseasonsofbangladesh.Spring">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="বসন্ত ষড়ঋতুর শেষ ঋতু। ফাল্গুন এবং চৈত্র মাস মিলে হয় বসন্ত ঋতু। বসন্ত ঋতুর আগমন ঘটে শীত চলে যাবার পর এবং গ্রীষ্ম আসার আগে। গ্রীষ্মমন্ডলীয় এলাকায় তাপমাত্রা বাড়তে থাকে কারন পৃথিবী সূর্যের দিকে হেলে থাকে। পৃথিবীর অনেক প্রান্তে এই ঋতুতে ফুল ফুটে, নতুন গাছের পাতা গজায়, নতুন গাছের জন্ম হয়। এই সময় অনেক পশুপাখি মিলন ঘটায় এবং বাচ্চার জন্ম দেয়। আবার পৃথিবীর অনেক জায়গায় এই সময় বৃষ্টিও হয়। এর ফলে গাছপালা বেড়ে উঠে, ফুল ও ফলের পরবর্তী বেড়ে ওঠায় গুরুত্বপূর্ন ভূমিকা রাখে।"
+        android:textSize="21sp"
+        />
+
+</RelativeLayout>

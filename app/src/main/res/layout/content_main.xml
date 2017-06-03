@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:background="@drawable/a"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity" tools:showIn="@layout/activity_main">
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginRight="90dp"
+        android:text="গ্রীষ্ম"
+        android:textSize="20sp"
+        android:background="#3d1d62e2"
+        android:onClick="summerClick"/>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginRight="90dp"
+        android:text="বর্ষা"
+        android:textSize="20sp"
+        android:background="#3d1d62e2"
+        android:onClick="rainyClick"/>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginRight="90dp"
+        android:text="শরৎ"
+        android:textSize="20sp"
+        android:background="#3d1d62e2"
+        android:onClick="autumnClick"/>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginRight="90dp"
+        android:text="হেমন্ত"
+        android:textSize="20sp"
+        android:background="#3d1d62e2"
+        android:onClick="dryseasonClick"/>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginRight="90dp"
+        android:text="শীত"
+        android:textSize="20sp"
+        android:background="#3d1d62e2"
+        android:onClick="winterClick"/>
+
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginRight="90dp"
+        android:text="বসন্ত"
+        android:textSize="20sp"
+        android:background="#3d1d62e2"
+        android:onClick="springClick"/>
+
+</LinearLayout>
+

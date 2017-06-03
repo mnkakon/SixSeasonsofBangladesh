@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ষড়ঋতুর বাংলাদেশ</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_summer">গ্রীষ্ম</string>
+    <string name="title_activity_rainy">বর্ষা</string>
+    <string name="title_activity_autumn">শরৎ</string>
+    <string name="title_activity_dryseason">হেমন্ত</string>
+    <string name="title_activity_winter">শীত</string>
+    <string name="title_activity_spring">বসন্ত</string>
+</resources>

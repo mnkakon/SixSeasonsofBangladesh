@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_rainy"
+    tools:context="com.project.android.sixseasonsofbangladesh.Rainy">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="বর্ষা, মৌসুমী বায়ুপ্রবাহের অঞ্চলগুলোতে উদযাপিত একটি ঋতু, যখন মৌসুমী বায়ুর প্রভাব সক্রীয় হওয়ায় প্রবল বৃষ্টিপাত হয়। বাংলা বর্ষপঞ্জি অনুয়ায়ী এটি হচ্ছে বাংলা বছরের দ্বিতীয় ঋতু, যেখানে আষাঢ় ও শ্রাবণ এই দুই মাস জুড়ে এই বর্ষাকাল ব্যাপৃত থাকে। বাংলা বছরে, বর্ষার আগের ঋতুটি হলো রৌদ্রতপ্ত গ্রীষ্ম আর পরের ঋতুটি হলো শ্যামল শরৎ।"
+        android:textSize="21sp"
+        />
+
+</RelativeLayout>

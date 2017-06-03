@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_dryseason"
+    tools:context="com.project.android.sixseasonsofbangladesh.Dryseason">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="হেমন্ত হলো ষড়ঋতুর চতুর্থ ঋতু, যা কার্তিক ও অগ্রহায়ণ মাসের সমন্বয়ে গঠিত। শরৎকালের পর এই ঋতুর আগমন। এর পরে আসে শীত, তাই হেমন্তকে বলা হয় শীতের পূর্বাভাস। কৃত্তিকা ও আর্দ্রা এ দুটি তারার নাম অনুসারে নাম রাখা হয়েছে কার্তিক ও অগ্রহায়ণ মাসের। ‘মরা’ কার্তিকের পর আসে সর্বজনীন লৌকিক উৎসব নবান্নে। ‘অগ্র’ ও ‘হায়ণ’ এ দু’অংশের অর্থ যথাক্রমে ‘ধান’ ও ‘কাটার মওসুম’। সম্রাট আকবর অগ্রহায়ণ মাসকেই বছরের প্রথম মাস বা খাজনা তোলার মাস ঘোষণা দিয়েছিলেন। এ ঋতুতে গন্ধরাজ, মল্লিকা, শিউলি, কামিনী, হিমঝুরি, দেবকাঞ্চন, রাজ অশোক ফুল ফোটে।"
+        android:textSize="21sp"
+        />
+
+</RelativeLayout>
